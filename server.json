@@ -15,6 +15,38 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2022-08-10T10:26:47.333Z"
+    },
+    {
+      "id": 3,
+      "description": "Desenvolvimento de app",
+      "type": "income",
+      "category": "Venda",
+      "price": 10000,
+      "createdAt": "2022-08-10T12:26:47.333Z"
+    },
+    {
+      "id": 4,
+      "description": "Aluguel",
+      "type": "outcome",
+      "category": "Contas",
+      "price": 650,
+      "createdAt": "2022-08-10T10:26:47.333Z"
+    },
+    {
+      "description": "Explorer",
+      "price": 2300,
+      "category": "Educação",
+      "type": "outcome",
+      "createdAt": "2022-08-11T12:04:07.451Z",
+      "id": 5
+    },
+    {
+      "description": "Gasolina",
+      "price": 15,
+      "category": "Contas",
+      "type": "outcome",
+      "createdAt": "2022-08-11T12:26:49.797Z",
+      "id": 6
     }
   ]
 }
